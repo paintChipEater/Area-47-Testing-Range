@@ -1,1 +1,4 @@
 20220717	19:57:12	778d35a6-434d-4d2f-a708-a51b54b83121	TypeError: fsPromises.readFil is not a function
+20220720	20:17:21	5ef36747-1b3f-430a-9336-d46a56bf1bc0	TypeError: data.setEmployees is not a function
+20220722	08:54:25	4433a34e-afb3-44d7-9d96-9eba366d8300	TypeError: Cannot read properties of undefined (reading 'authorization')
+20220722	08:55:49	9c9c1f5a-b188-4079-9424-822b2edbadbe	TypeError: Cannot read properties of undefined (reading 'authorization')
